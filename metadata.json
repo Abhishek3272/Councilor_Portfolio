@@ -1,0 +1,6 @@
+{
+  "name": "Ward 8 Civic Portal - Councillor Mahesh Keshav Shinde",
+  "description": "Official Civic Portal for Ward No. 8 Municipal Corporation, providing development updates, direct citizen grievance redressal, community initiatives, and secretariat contact.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
