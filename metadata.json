@@ -1,6 +1,6 @@
 {
-  "name": "Ward 8 Civic Portal - Councillor Mahesh Keshav Shinde",
-  "description": "Official Civic Portal for Ward No. 8 Municipal Corporation, providing development updates, direct citizen grievance redressal, community initiatives, and secretariat contact.",
+  "name": "Ward 8 Civic Portal - Councillor Mahesh Keshav Shinde (Akluj)",
+  "description": "Official Civic Portal for Ward No. 8 Akluj Municipal Council, providing development project tracking, direct citizen grievance redressal, participatory budgeting, news announcements, and secretariat contacts.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
